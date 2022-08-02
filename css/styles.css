@@ -1,0 +1,10 @@
+.image img{
+    object-fit: cover;
+    background-color: rgb(220, 29, 146);
+    
+}
+
+p {
+    text-align: center;
+    font-size: larger;
+}
